@@ -17,6 +17,8 @@ Time Spent: [1 hr]
 
 ### Recording of the prework in gif
 
+![alt tag](https://github.com/vvgiri/node.js/blob/master/recordings.gif)
+
 ### Steps for running the prework
 
 ```
