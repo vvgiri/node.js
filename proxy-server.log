@@ -1,19 +1,5 @@
 Listening at http://127.0.0.1:8000
 Proxy request: 
-{"user-agent":"curl/7.37.1","host":"127.0.0.1:8001","accept":"*/*","x-asdf":"foo","content-length":"4","content-type":"application/x-www-form-urlencoded"}{"user-agent":"curl/7.37.1","host":"127.0.0.1:8001","accept":"*/*","x-asdf":"foo","content-length":"4","content-type":"application/x-www-form-urlencoded"}
-Echo request: 
-{"user-agent":"curl/7.37.1","host":"127.0.0.1:8001","accept":"*/*","x-asdf":"foo","content-length":"4","content-type":"application/x-www-form-urlencoded","connection":"close"}
-Proxy request: 
-{"user-agent":"curl/7.37.1","host":"127.0.0.1:8001","accept":"*/*","x-learnnode":"Hurray","content-length":"8","content-type":"application/x-www-form-urlencoded"}{"user-agent":"curl/7.37.1","host":"127.0.0.1:8001","accept":"*/*","x-learnnode":"Hurray","content-length":"8","content-type":"application/x-www-form-urlencoded"}
-Echo request: 
-{"user-agent":"curl/7.37.1","host":"127.0.0.1:8001","accept":"*/*","x-learnnode":"Hurray","content-length":"8","content-type":"application/x-www-form-urlencoded","connection":"close"}
-Proxy request: 
-{"user-agent":"curl/7.37.1","host":"127.0.0.1:8001","accept":"*/*","x-learnnode":"Hurray","content-length":"9","content-type":"application/x-www-form-urlencoded"}{"user-agent":"curl/7.37.1","host":"127.0.0.1:8001","accept":"*/*","x-learnnode":"Hurray","content-length":"9","content-type":"application/x-www-form-urlencoded"}
-Echo request: 
-{"user-agent":"curl/7.37.1","host":"127.0.0.1:8001","accept":"*/*","x-learnnode":"Hurray","content-length":"9","content-type":"application/x-www-form-urlencoded","connection":"close"}
-Echo request: 
-{"user-agent":"curl/7.37.1","host":"127.0.0.1:8000","accept":"*/*","x-learnnode":"Hurray","content-length":"9","content-type":"application/x-www-form-urlencoded"}
-Proxy request: 
 {"user-agent":"curl/7.37.1","host":"127.0.0.1:8001","accept":"*/*","content-length":"9","content-type":"application/x-www-form-urlencoded"}{"user-agent":"curl/7.37.1","host":"127.0.0.1:8001","accept":"*/*","content-length":"9","content-type":"application/x-www-form-urlencoded"}
 Echo request: 
 {"user-agent":"curl/7.37.1","host":"127.0.0.1:8001","accept":"*/*","content-length":"9","content-type":"application/x-www-form-urlencoded","connection":"close"}
